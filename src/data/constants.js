@@ -3,6 +3,9 @@ import web1 from "../images/web1.jpg";
 import app2 from "../images/app2.jpg";
 import ml1 from "../images/ml1.jpg";
 import web2 from "../images/web2.jpg";
+import app1new from "../images/app1new.jpg";
+import app2new from "../images/app2new.jpg";
+
 
 export const Bio = {
   name: "Deep Vyas",
@@ -298,7 +301,7 @@ export const projects = [
     date: "March 2024",
     description:
     "The Collaborative Student Project Management App aimed to boost coordination and productivity among student teams. Developed using React Native, Express, MongoDB, and Node.js, it featured user-friendly tools for file sharing, meeting scheduling, chat, and task management. Students could easily exchange resources, schedule meetings, communicate in real-time, and track tasks, fostering a collaborative environment for successful project completion and enriched learning experiences." ,
-      image:app1,
+      image:app1new,
     tags: [
       "React Native",
       "Express",
@@ -347,7 +350,7 @@ export const projects = [
     date: "Dec 2023",
     description:
       "In December 2023, I had the privilege of participating in the Smart India Hackathon finale, where I contributed to HarvestConnect, a project aimed at addressing real-world challenges encountered by farmers while promoting sustainable agricultural practices. By leveraging React Native and Node.js technologies, I developed a user-friendly interface empowering farmers to access crucial market data and navigate to nearby water structures. Integration of Twilio for SMS alerts enabled timely notifications, while MongoDB facilitated robust data storage and retrieval, ensuring seamless access to critical information. This endeavor epitomized the fusion of technology and social impact, fostering innovation to benefit agricultural communities",
-    image:app2,
+    image:app2new,
     tags: ["React native", "Node Js", "MongoDB", "Twilio", "Express Js","PowerBI"],
     category: "android app",
     github: "https://github.com/DEEPVYAS03/SIH_CodeCrafters",
@@ -377,7 +380,7 @@ export const projects = [
     tags: ["React Js","Node Js","Express Js","MongoDB"],
     category: "web app",
     github: "https://github.com/DEEPVYAS03/Workout-Buddy",
-    webapp: "https://github.com/DEEPVYAS03/Workout-Buddy",
+    webapp: "https://workout-frontend-henna.vercel.app",
   },
 ];
 
