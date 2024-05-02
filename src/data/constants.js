@@ -5,6 +5,7 @@ import ml1 from "../images/ml1.jpg";
 import web2 from "../images/web2.jpg";
 import app1new from "../images/app1new.jpg";
 import app2new from "../images/app2new.jpg";
+import netflix from '../images/netflix.jpg';
 
 
 export const Bio = {
@@ -381,6 +382,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/DEEPVYAS03/Workout-Buddy",
     webapp: "https://workout-frontend-henna.vercel.app",
+  },
+  {
+    id: 5,
+    title: "Netflix Clone",
+    date: "Aug. 2023",
+    description:
+      "The Netflix clone is a ReactJS-based web app styled with Tailwind CSS, faithfully emulating the Netflix interface. Leveraging the TMDB API, it seamlessly fetches movie details, enabling users to explore a vast array of titles, descriptions, and ratings akin to the original platform.",
+    image:netflix,
+    tags: ["React Js","JavaScript","Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/DEEPVYAS03/netflix-clone",
+    webapp: "https://github.com/DEEPVYAS03/netflix-clone",
   },
 ];
 
