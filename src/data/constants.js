@@ -20,7 +20,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/DEEPVYAS03",
   resume:
-    "https://drive.google.com/file/d/1PdsHzzSk-3D6pcGlcS6e7yihnVQAcLiJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1CA8Toxdwwn20sHrIqMSxt6zP8NN4YVXn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/deep-vyas-37a00122a/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
@@ -324,7 +324,7 @@ export const projects = [
     tags: ["React Js", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/DEEPVYAS03/Bank-Website",
-    webapp: "https://github.com/DEEPVYAS03/Bank-Website",
+    webapp: "https://bankwebapp1239.netlify.app/",
   },
   {
     id: 2,
